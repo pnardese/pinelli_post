@@ -20,3 +20,6 @@ add #!/bin/bash and do chmod 777 transcode_script.sh
 $ ./transcode_script.sh
 
 
+use Davinci to create DNxHD 36 8 bit files for Avid from Prores
+
+
